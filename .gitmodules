@@ -5,3 +5,4 @@
 [submodule "easytable"]
 	path = easytable
 	url = https://github.com/alfredo-hs/easytable
+	branch = dev
